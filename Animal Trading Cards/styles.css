@@ -1,0 +1,49 @@
+body{
+  margin-left: 35%;
+}
+
+img {
+ width:300px;
+ height:200px;
+ border-radius:10px;
+}
+
+#fav {
+ border: 1px solid grey;
+ height:100%;
+ padding:7px;
+ box-shadow:5px 5px #dcdcdc;
+max-width:19em;
+background-color:skyblue;
+}
+#hey {
+border: 1px solid grey;
+margin:0.9px;
+
+border-radius: 10px;
+}
+
+.qualities {
+font-style:italic;
+}
+p,#description1 {
+margin:12px;
+padding-top:14px
+}
+span,h3 {
+font-weight:bold;
+}
+#description2 {
+margin:10px;
+padding-bottom:25px;
+}
+#name{
+  color: blue;
+  font-family: courier;
+  text-shadow: 3px 3px powderblue;
+}
+
+#text{
+   font-family: 'Nobile', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+}
